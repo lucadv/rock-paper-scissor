@@ -1,0 +1,46 @@
+{
+  "name": "@lucadv/rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "A library to play the game rock, paper, scissors",
+  "main": "index.js",
+  "engines": {
+    "node": "8.10.x"
+  },
+  "dependencies": {
+    "@lucadv/pickme": "^1.0.0",
+    "hoek": "^4.1.0"
+  },
+  "devDependencies": {
+    "code": "^5.0.0",
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "lab": "^11.2.1",
+    "sinon": "^6.1.5"
+  },
+  "author": "Luca Di Vincenzo <ldivincenzo@gmail.com>",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucadv/rock-paper-scissors.git"
+  },
+  "keywords": [
+    "rock",
+    "paper",
+    "scissors"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucadv/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/lucadv/rock-paper-scissors#readme"
+}
