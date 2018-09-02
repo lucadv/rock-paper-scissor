@@ -11,6 +11,14 @@ Call RPS with the 2 moves (if the second move is not passed one will be generate
   * `message`: the result message of the game (e.g. `paper beats rock`)
   * `moves`: an object representing the moves of player 1 and player 2
 
+Install @lucadv/rock-paper-scissors:
+
+```bash
+npm install --save @lucadv/rock-paper-scissors
+```
+
+Then use it like this:
+
 ```javascript
 const RPS = require('@lucadv/rock-paper-scissors');
 
