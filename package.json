@@ -1,6 +1,6 @@
 {
   "name": "@lucadv/rock-paper-scissors",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "cd",
   "main": "index.js",
   "engines": {
