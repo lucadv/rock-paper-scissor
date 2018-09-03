@@ -1,14 +1,13 @@
 {
   "name": "@lucadv/rock-paper-scissors",
   "version": "1.0.0",
-  "description": "A library to play the game rock, paper, scissors",
+  "description": "cd",
   "main": "index.js",
   "engines": {
     "node": "8.10.x"
   },
   "dependencies": {
-    "@lucadv/pickme": "^1.0.0",
-    "hoek": "^4.1.0"
+    "@lucadv/pickme": "^1.0.0"
   },
   "devDependencies": {
     "code": "^5.0.0",
