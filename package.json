@@ -1,7 +1,7 @@
 {
   "name": "@lucadv/rock-paper-scissors",
   "version": "1.1.0",
-  "description": "cd",
+  "description": "A library to play the game rock, paper, scissors",
   "main": "index.js",
   "engines": {
     "node": "8.10.x"
