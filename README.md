@@ -28,3 +28,5 @@ const player2Move = 'paper';
 const result = RPS(player1Move, player2Move); 
 // { winner: 'player2', message: 'paper beats rock', moves: { player1: 'rock', 'player2': 'paper' } }
 ```
+
+If you don't pass player2Move, a shape will be picked randomly. 
